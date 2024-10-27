@@ -14,8 +14,10 @@
 
 - basic1 과정
 - basic2 과정
-- <img src="/image.png" width="200" height="400"/>
-- <img src="/image2.png" width="200" height="400"/>
+<div>
+<img src="/image.png" width="200" height="400"/>
+<img src="/image2.png" width="200" height="400"/>
+</div>
 
 ### 참고자료
 
