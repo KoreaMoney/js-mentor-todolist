@@ -9,8 +9,8 @@
 ### Todolist 이미지
 - basic1 과정
 - basic2 과정
-- <img src="https://github.com/user-attachments/assets/1807bcdc-efc9-4ba6-988e-348f19dca0d6" width="200" height="400"/>
-- <img src="https://github.com/user-attachments/assets/3378717e-4e7f-4488-8383-808a9c8fba2a" width="200" height="400"/>
+- <img src="" width="200" height="400"/>
+- <img src="" width="200" height="400"/>
 
 ### 참고자료
 @opensourcecoding
