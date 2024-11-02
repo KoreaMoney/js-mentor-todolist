@@ -18,6 +18,7 @@
 <img src="/qr-study.png" width="300" height="400"/>
 </div>
 - Todo ver.1 과정
+<div></div>
 - Todo ver.2 과정
 
 <div>
