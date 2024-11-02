@@ -12,8 +12,13 @@
 
 ### Todolist 이미지
 
-- basic1 과정
-- basic2 과정
+- Generate QR Code
+
+<div>
+<img src="/qr-study.png" width="200" height="400"/>
+</div>
+- Todo ver.1 과정
+- Todo ver.2 과정
 
 <div>
 <img src="/image.png" width="200" height="400"/>
