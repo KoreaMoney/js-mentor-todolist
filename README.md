@@ -1,6 +1,6 @@
-# Javascript 기초 기반 todolist만들기 실습
+# Javascript 지식공유 학습 실습
 
-- 자바스크립트 기초 학습을 마치고 실제 todolist를 만들면서 적용시키기
+- 지식공유를 하고 멘티분들께서 실습에 대한 소스코드 저장소
 
 ## author : KIM DOWON
 
@@ -9,6 +9,7 @@
 - <https://ko.javascript.info/>
 - 해당 모던 자바스크립트 기초과정을 마치고 멘티분들의 실습을 위한 todolist적용
 - 프론트엔드 개발자 자바스크립트 기초과정 기반
+- QR Code생성 관련 site : <https://goqr.me/api/>
 
 ### Todolist 이미지
 
@@ -17,8 +18,11 @@
 <div>
 <img src="/qr-study.png" width="280" height="390"/>
 </div>
+
 - Todo ver.1 과정
+
 <div></div>
+
 - Todo ver.2 과정
 
 <div>
