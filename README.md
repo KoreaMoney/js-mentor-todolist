@@ -15,7 +15,7 @@
 - Generate QR Code
 
 <div>
-<img src="/qr-study.png" width="300" height="400"/>
+<img src="/qr-study.png" width="280" height="390"/>
 </div>
 - Todo ver.1 과정
 <div></div>
