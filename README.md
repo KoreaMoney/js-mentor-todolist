@@ -18,6 +18,12 @@
 
 ### Todolist 이미지
 
+- Counter
+
+<div>
+<img src="/counter.png" width="280" height="390"/>
+</div>
+
 - Generate QR Code
 
 <div>

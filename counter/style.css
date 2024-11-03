@@ -15,9 +15,34 @@ body {
 }
 
 .container {
-  background: #a5a5a5;
+  background: #dbdbdb;
   padding: 20px;
   text-align: center;
   border-radius: 10px;
   box-shadow: 0 0 10px;
+}
+
+#value {
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+.btn {
+  text-transform: uppercase;
+  background: transparent;
+  color: #171730;
+  padding: 6px 12px;
+  letter-spacing: 1.6px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: 1px solid #171730;
+  cursor: pointer;
+  margin: 4px;
+  display: inline-block;
+  transition: all 0.3s linear;
+}
+
+.btn:hover {
+  color: #fff;
+  background: #102a42;
 }
