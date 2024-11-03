@@ -21,7 +21,7 @@
 - Counter
 
 <div>
-<img src="/counter.png" width="280" height="270"/>
+<img src="/counter.png" width="280" height="250"/>
 </div>
 
 - Generate QR Code
