@@ -24,13 +24,13 @@ function generateQRcode() {
   }
 }
 
-qrText.addEventListener("input", function () {
-  if (this.value.length > 0) {
+qrText.addEventListener("input",  ()=> {
+  if (.value.length > 0) {
     removeError();
   }
 });
 
-qrText.addEventListener("keypress", function (event) {
+qrText.addEventListener("keypress",  (event)=> {
   if (event.key === "Enter") {
     generateQRcode();
   }
