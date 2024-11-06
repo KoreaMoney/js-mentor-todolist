@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stopwatch | JS</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <p>Stopwatch javascript version</p>
+        <h3>Digital Stopwatch and Timer</h3>
+        <p class="type">Clock</p>
+      </div>
+      <div class="main-wrapper">
+        <div class="clock">
+          <div class="wrapper">
+            <div class="main">
+              <div class="hour">
+                <p class="number" id="hour">00</p>
+                <p>hours</p>
+              </div>
+              <p class="colon">:</p>
+              <div class="min">
+                <p class="number" id="min">00</p>
+                <p>minutes</p>
+              </div>
+              <p class="colon">:</p>
+              <div class="sec">
+                <p class="number" id="sec">00</p>
+                <p>seconds</p>
+              </div>
+              <p class="colon">:</p>
+              <div class="ampm">
+                <p class="number" id="am">AM</p>
+                <p id="pm">PM</p>
+              </div>
+            </div>
+          </div>
+          <div class="btns">
+            <button class="btn" id="stopwatch-btn">Stopwatch</button>
+            <button class="btn" id="timer-btn">Timer</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"
+      integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ=="
+      crossorigin="anonymous"
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>

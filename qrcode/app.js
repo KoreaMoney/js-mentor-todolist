@@ -25,7 +25,7 @@ function generateQRcode() {
 }
 
 qrText.addEventListener("input",  ()=> {
-  if (.value.length > 0) {
+  if (qrText.value.length > 0) {
     removeError();
   }
 });
