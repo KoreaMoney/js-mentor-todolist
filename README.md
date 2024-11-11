@@ -21,14 +21,26 @@
 - Counter
 
 <div>
-<img src="/counter.png" width="280" height="250"/>
+<img src="/counter.png" width="280" height="230"/>
 </div>
+
+- Stopwatch & Timer
+
+<div></div>
 
 - Generate QR Code
 
 <div>
 <img src="/qr-study.png" width="280" height="390"/>
 </div>
+
+- Music player (basic)
+
+<div></div>
+
+- Music player
+
+<div></div>
 
 - Todo ver.1 과정
 
