@@ -26,7 +26,9 @@
 
 - Stopwatch & Timer
 
-<div></div>
+<div>
+<img src="/stopwatch.png" width="280" height="230"/>
+</div>
 
 - Generate QR Code
 
